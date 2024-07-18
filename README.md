@@ -6,10 +6,10 @@ I completed an internship at Codsoft, where I worked on various tasks and projec
 
 ## Tasks and Projects:
 
-- ### Task 1
+### Task 1
 - A brief description of the task and the technologies used.
-- ### Task 2
+### Task 2
 - A brief description of the task and the technologies used.
-- ### Task 3
+### Task 3
 - A brief description of the project and the technologies used.
 
